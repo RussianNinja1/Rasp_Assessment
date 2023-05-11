@@ -3,12 +3,22 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - TriggerB
+  - Pickup:loveheart
+  - Pickup
+  - Pickup_LHS
+  - Pickup_LHI
+  - Pickup_DS
+  - Pickup_DI
+  - Pickup_KS
+  - Pickup_KI
+  - Fire
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Pickups
   - Water
   - UI
   - 
